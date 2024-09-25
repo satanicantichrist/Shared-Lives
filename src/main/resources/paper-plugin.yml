@@ -1,0 +1,6 @@
+name: Shared-Lives
+version: '1.0-SNAPSHOT'
+main: me.satanicantichrist.sharedlives.Sharedlives
+api-version: '1.21'
+author: SatanicAntichrist
+description: Shared Lives between players? Yes please!
