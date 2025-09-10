@@ -1,7 +1,4 @@
 
-![Modrinth Downloads](https://img.shields.io/modrinth/dt/W5ap8v5i?style=for-the-badge&link=https%3A%2F%2Fmodrinth.com%2Fplugin%2Fshared-lives)
-
-
 🎉 Shared-Lives Minecraft Plugin 🎉
 
 Small plugin for Minecraft that makes players damage shared between them.
@@ -15,6 +12,8 @@ Features
     👫 Play with friends and test your teamwork (or suffer together).
 
 Installation
+
+Download on [Modrinth](https://modrinth.com/plugin/shared-lives)
 
     Download the plugin.
     Drop it into your server's plugins folder.
